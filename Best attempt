@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Food is so delicious</title>
+<link rel="stylesheet" type="text/css" href="Try Menu Againcss.css"/>
+</head>
+<body>
+<h1>Our Menu</h1>
+
+  <div class="col-lg-4 col-md-6"; "row" ><p style="
+  float:right; 
+  background: pink; 
+  width:100px; 
+  height: 5%; 
+  font-family: arial;
+  color: black;
+  position: relative;
+  text-align: center;
+  right: -25.7%;
+  padding-top: 0%;
+  ">Chicken </p> 
+  <p> IPalaeontologists have long accepted that birds are a form of dinosaur. Now the theory that the most feared dinosaur of all, Tyrannosaurus Rex, evolved into the modern-day chicken has been given scientific backing with the discovery of some pre-historic collagen.</p></div>
+  <div class="col-lg-4 col-md-6"><p style="
+  float:right; 
+  background: 
+  red; width:100px; 
+  height: 5%; 
+  position: relative;
+  right: -25.7%;
+  text-align: center;
+  padding-top: 0%;
+  "> Beef </p>
+  <p> Highland cattle are a Scottish cattle breed. They have long horns and long wavy coats that are coloured black, brindle, red, yellow, white, silver or dun, and they are raised primarily for their meat.</p></div>
+  <div class="col-lg-4 col-md-12" style="margin">
+  <p style=" 
+  float:right; 
+  background: beige; 
+  width:100px; 
+  height: 5%; 
+  color: black;
+  position: relative;
+  text-align: center;
+  right: -25.7%;
+  padding-top: 0%;
+  "> Sushi </p>
+  <p> The history of sushi began around the 8th century in Japan. The original type of sushi was first developed in Southeast Asia as a means of preserving fish in fermented rice. In the Muromachi period, people began to eat the rice as well as the fish. </p>
+ </div>
+</div>
+
+</body>
+</html>
